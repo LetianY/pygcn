@@ -17,6 +17,8 @@ This implementation makes use of the Cora dataset from [2].
 
 ```python setup.py install```
 
+Revised: No need to run setup.py now as long as all packages are installed
+
 ## Requirements
 
   * PyTorch 0.4 or 0.5
